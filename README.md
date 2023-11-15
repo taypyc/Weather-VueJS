@@ -22,8 +22,6 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Notes
 
-```sh
-npm run build
-```
+Do not forget to set up your API_KEY
